@@ -1,42 +1,66 @@
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Mohamed Shareef A</h1>
 
-Hi, I'm Mohamed Shareef A 👋  
-A passionate developer focused on building smart solutions using **AI, Automation, and Web Development**.
+<p align="center">
+  🚀 AI & Automation Enthusiast | 🌐 Full Stack Developer | 🤖 Problem Solver
+</p>## 👨‍💻 About Me
 
-- 🔭 I’m currently working on:
-  - Automation workflows using **n8n**
-  - Full-stack projects (React + Node.js)
-  - Python-based tools like **Certificate Generator**
+Hi there! I'm **Mohamed Shareef A** 👋  
+🚀 A passionate developer who loves building **smart, real-world solutions** using  
+🤖 **AI | ⚙️ Automation | 🌐 Web Development**
 
-- 🌱 I’m currently learning:
-  - **Python for backend development**
-  - **Flask & API development**
-  - Advanced **AI & Machine Learning concepts**
+---
 
-- 🧠 Skilled in:
-  - Python, JavaScript, C++
-  - SQL (MySQL, SQL Server)
-  - Data Analysis (Pandas, NumPy, Matplotlib)
-  - Automation (n8n, Zapier, API Integration)
-  - UI/UX Design (Figma)
+### 🔭 Currently Working On
+- ⚙️ Building automation workflows using **n8n**
+- 🌐 Developing full-stack apps (**React + Node.js**)
+- 🐍 Creating Python tools like **Certificate Generator**
 
-- 🤖 AI & Cloud:
-  - Experience with **Microsoft Foundry / Azure AI**
-  - Built projects using **RAG, AI Agents, Prompt Flow**
+---
 
-- 💡 Interests:
-  - Building real-world automation systems
-  - AI-powered applications
-  - Solving problems with code
+### 🌱 Currently Learning
+- 🐍 **Python for Backend Development**
+- 🔥 **Flask & API Development**
+- 🤖 Advanced **AI & Machine Learning**
 
-- 🤝 I’m looking to collaborate on:
-  - AI projects
-  - Automation workflows
-  - Open-source contributions
+---
 
-- 📫 How to reach me:
-  - Email: your-email@example.com
-  - LinkedIn: your-linkedin-url
+### 🧠 Skills & Tools
+- 💻 Languages: **Python | JavaScript | C++**
+- 🗄️ Databases: **MySQL | SQL Server**
+- 📊 Data Analysis: **Pandas | NumPy | Matplotlib**
+- ⚙️ Automation: **n8n | Zapier | API Integration**
+- 🎨 Design: **Figma (UI/UX)**
 
-- ⚡ Fun fact:
-  I love turning manual work into automated systems 🚀
+---
+
+### 🤖 AI & Cloud Experience
+- ☁️ Worked with **Microsoft Foundry / Azure AI**
+- 🧩 Built solutions using:
+  - 🔗 **RAG (Retrieval-Augmented Generation)**
+  - 🤖 **AI Agents**
+  - 🔄 **Prompt Flow**
+
+---
+
+### 💡 Interests
+- 🔄 Automating manual workflows  
+- 🧠 Building AI-powered applications  
+- 💡 Solving real-world problems with code  
+
+---
+
+### 🤝 Let’s Collaborate
+- 🤖 AI Projects  
+- ⚙️ Automation Workflows  
+- 🌍 Open Source Contributions  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: your-email@example.com  
+- 🔗 LinkedIn: your-linkedin-url  
+
+---
+
+### ⚡ Fun Fact
+> I love turning boring manual work into smart automated systems 🚀😄
